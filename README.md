@@ -1,4 +1,4 @@
-# TODOLIST SIMPLE USING PHP NATIVE OOP
+# TODOLIST USING PHP NATIVE OOP
 
 This program still uses the CLI/Terminal to run its output
 
